@@ -1,16 +1,14 @@
-Usage
-=====
+Sculpfun S9
+===========
 
 .. _installation:
 
-Installation
-------------
+Parameter
+---------
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+Holz
+Glas
+Spiegel
 
 Creating recipes
 ----------------
